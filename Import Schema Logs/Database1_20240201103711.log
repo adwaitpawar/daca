@@ -1,0 +1,10 @@
+01-02-2024 16:07:11	This log contains information about the import schema operation into project 'Database1' on computer 'DESKTOP-KLR24O6' by user 'User'.
+01-02-2024 16:07:12	Deserializing model
+01-02-2024 16:07:12	Resolving model
+01-02-2024 16:07:12	Visiting imported model for types
+01-02-2024 16:07:13	Scanning project for duplicate elements
+01-02-2024 16:07:13	Finished duplicate element processing
+01-02-2024 16:07:13	Processing extra files
+01-02-2024 16:07:13	Finished importing Data-tier Application file.
+01-02-2024 16:07:13	A summary of the import was saved to the following location: D:\timesheet\Database1\Import Schema Logs\Database1_20240201103711.log
+01-02-2024 16:07:13	Click Finish to continue...
